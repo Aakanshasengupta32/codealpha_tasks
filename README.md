@@ -1,13 +1,13 @@
 # codealpha_tasks
 
-TASK 1 : CGPA CALCULATOR
+TASK 1 : CGPA CALCULATOR :
      A **CGPA Calculator** computes the **Cumulative Grade Point Average**, 
      which is the weighted average of grade points earned across all semesters, 
      divided by the total credit hours. 
      It's a quick way for students to track overall academic performance.
 
 
-TASK 2 : LOGIN AND REGISTRATION SYSTEM
+TASK 2 : LOGIN AND REGISTRATION SYSTEM :
      A **Login and Registration System** is used for user account management.
      It lets users **register** by creating accounts 
      and **login** by verifying their credentials (username and password), 
@@ -16,7 +16,7 @@ TASK 2 : LOGIN AND REGISTRATION SYSTEM
      and protection for sensitive information like passwords.
 
 
-TASK 3 : SUDOKU SOLVER
+TASK 3 : SUDOKU SOLVER :
     The code solves a Sudoku puzzle using **backtracking**.
     Here's the logic in brief:
     1. **Find an Empty Cell**: Search for a cell with `0`.
